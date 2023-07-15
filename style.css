@@ -242,6 +242,8 @@
 @media (max-width:480px){
     .numbers {
             margin-left: 22.5%;
+    } .family img.doctor {
+        height: 60%;
     }
 }
 /* End Family Section  */
