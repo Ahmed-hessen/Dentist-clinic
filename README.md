@@ -38,3 +38,19 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 Thank you for visiting the Dentist Clinic Website! Experience the simplicity and elegance of professional dental care. 🦷✨
+
+
+![Screenshot (41)](https://github.com/Ahmed-hessen/Dentist-clinic/assets/128532764/f426edce-40c3-4990-b899-af5637572034)
+
+
+
+
+
+![Screenshot (42)](https://github.com/Ahmed-hessen/Dentist-clinic/assets/128532764/38cfe98d-7122-48e4-b220-e6baeb7726cd)
+
+
+
+
+![Screenshot (43)](https://github.com/Ahmed-hessen/Dentist-clinic/assets/128532764/6c17c078-f0c0-4a93-9df2-02865d5fda9c)
+
+
